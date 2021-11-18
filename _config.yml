@@ -42,11 +42,11 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
+  name: Jake Schwartz
+  email: "jakeschwartz7@gmail.com"
+  facebook:
+  github: jakeschwartz7
+  twitter:
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
  
