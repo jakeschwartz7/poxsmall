@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Professor Crandall is the best!
 ---
 
-This is my first post, how exciting!
+I love learning about bioinformatics. It is the best subject!
