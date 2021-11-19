@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A blog post with an image
+title: Image of the Smallpox Virus
 subtitle: Subtitle goes here
-bigimg: /img/path.jpg
+![Smallpox- NPR org](https://user-images.githubusercontent.com/94649434/142520035-edbe237e-bdcd-4544-9eee-eb0cb78a0aaf.jpeg)
 ---
 
-Just some text here, but any Markdown will do.  Note the file naming scheme of the post, to include the date:  `2015-02-26-a-post-with-an-image.md`.  Also note the YAML block at the top of the post file.
+
