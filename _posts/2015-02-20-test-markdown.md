@@ -10,17 +10,12 @@ subtitle: Image of the Smallpox- from NPR
 
 ## The Smallpox Vaccine
 
-Here's a code chunk:
+The smallpox vaccine is what led to its eventual eradication in 1977
 
 ~~~
-![Smallpox vaccine](https://user-images.githubusercontent.com/94649434/142520773-8c89300f-1e19-477a-a6f0-b1fe1504d9c3.jpeg)
+
 ~~~
 
-And here is some code with syntax highlighting
+Smallpox was the first virus to have a vaccine. 
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3);
-```
+`
