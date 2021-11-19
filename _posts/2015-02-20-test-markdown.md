@@ -12,10 +12,6 @@ subtitle: Image of the Smallpox- from NPR
 
 The smallpox vaccine is what led to its eventual eradication in 1977
 
-~~~
-
-~~~
-
 Smallpox was the first virus to have a vaccine. 
 
 `
