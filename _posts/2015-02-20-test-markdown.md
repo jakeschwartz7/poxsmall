@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Example how to use markdown
-subtitle: Each post also has a subtitle
+title: Pictures of the Smallpox virus
+subtitle: Image of the Smallpox- from NPR
 ---
 
-You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and Jekyll will automatically convert it to a nice webpage.
+![Smallpox- NPR org](https://user-images.githubusercontent.com/94649434/142520517-23242c1f-aafe-4e5b-8109-77ed5cac6c61.jpeg) 
 
 **Here is some bold text**
 
